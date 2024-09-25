@@ -21,6 +21,8 @@
 <br>
 
 ### Usage
+**NOTE:  This particular repository uses none of the go-modules for Pion, only the pure html/js webRTC native implementation of a basic screenshare feature.**
+
 [Go Modules](https://blog.golang.org/using-go-modules) are mandatory for using Pion WebRTC. So make sure you set `export GO111MODULE=on`, and explicitly specify `/v4` (or an earlier version) when importing.
 
 
