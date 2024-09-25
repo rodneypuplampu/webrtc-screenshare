@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://pion.ly"><img src="./.github/pion-gopher-webrtc.png" alt="Pion WebRTC" height="250px"></a>
   <br>
-  Pion WebRTC
+  Pion WebRTC - Basic Screenshare Tool based on MDN Screencapture API
   <br>
 </h1>
-<h4 align="center">A pure Go implementation of the WebRTC API</h4>
+<h4 align="center">A pure Go implementation of the WebRTC API - Basic ScreenShare Tool</h4>
 <p align="center">
   <a href="https://pion.ly"><img src="https://img.shields.io/badge/pion-webrtc-gray.svg?longCache=true&colorB=brightgreen" alt="Pion WebRTC"></a>
   <a href="https://sourcegraph.com/github.com/pion/webrtc?badge"><img src="https://sourcegraph.com/github.com/pion/webrtc/-/badge.svg" alt="Sourcegraph Widget"></a>
