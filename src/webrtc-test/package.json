@@ -1,0 +1,14 @@
+{
+  "name": "webrtc-metrics-server",
+  "version": "1.0.0",
+  "description": "WebRTC Signaling and Metrics Collection Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0" // WebSocket library
+  },
+  "author": "",
+  "license": "ISC"
+}
